@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Garry's Mod (GMod) is a sandbox game developed by Facepunch Studios that has captivated players for years with its open-ended gameplay and limitless possibilities for creativity. ","photo2":"https://iili.io/HUQfcX9.jpg"},
+  {"desc3":"With the advent of Garry's Mod APK hints in 2023, players are granted even more opportunities to explore and experiment with their imaginations","photo3":"https://iili.io/HUQf5e2.webp"},
+  {"desc4":" This article will delve into the exciting prospects that Garry's Mod APK hints bring to the game and discuss the potential impact on the future of creative sandbox gaming.","photo4":"https://iili.io/HUQflse.png"},
+  {"desc5":"Garry's Mod, originally released in 2004 as a mod for Valve Corporation's Source engine, ","photo5":"https://iili.io/HUQf7bS.jpg"},
+  {"descd":"has evolved into a standalone game that allows players to manipulate objects and characters from various Source engine-based games. ","photod":"https://iili.io/HUQfaz7.jpg"}
    ]
  
 }
